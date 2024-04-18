@@ -11,9 +11,9 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 future:              true
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Entangled Stories"
-description:	       "The History of Jewish-Christian-Muslim Relations in the Premodern Near East (course website, winter semester 2023)"
-author:              "Nathan Gibson"
+title:		           "Theorien und Methoden der Religionswissenschaft"
+description:	       "Theorien und Methoden der Religionswissenschaft (2024 Sommersemester)"
+author:              "Nathan Gibson und Catherina Wenzel"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
