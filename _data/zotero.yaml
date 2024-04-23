@@ -266,10 +266,10 @@ references:
   type: book
 
 - id: kippenbergGegenwartUrspruenglichenReligion1997
-  citation-key: kippenbergGegenwartUrspruenglichenReligion1997
-  container-author:
+  author:
     - family: Kippenberg
       given: Hans Gerhard
+  citation-key: kippenbergGegenwartUrspruenglichenReligion1997
   container-title: 'Die Entdeckung der Religionsgeschichte : Religionswissenschaft und Moderne'
   event-place: München
   ISBN: 978-3-406-42882-1
@@ -281,6 +281,47 @@ references:
   publisher-place: München
   title: Die Gegenwart der ursprünglichen Religion in der modernen Zivilisation
   type: chapter
+
+- id: masuzawaInventionWorldReligions2005
+  author:
+    - family: Masuzawa
+      given: Tomoko
+  citation-key: masuzawaInventionWorldReligions2005
+  event-place: Chicago
+  ISBN: 978-0-226-50989-1
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: XV, 359 S.
+  publisher: Univ. of Chicago Press
+  publisher-place: Chicago
+  title: >-
+    The invention of world religions: Or, how European universalism was
+    preserved in the language of pluralism
+  title-short: The invention of world religions
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB128694505
+
+- id: masuzawaPrefaceIntroduction2005
+  author:
+    - family: Masuzawa
+      given: Tomoko
+  citation-key: masuzawaPrefaceIntroduction2005
+  container-title: >-
+    The invention of world religions: Or, how European universalism was
+    preserved in the language of pluralism
+  event-place: Chicago
+  ISBN: 978-0-226-50989-1
+  issued:
+    - year: 2005
+  language: en
+  page: ix-33
+  publisher: Univ. of Chicago Press
+  publisher-place: Chicago
+  title: Preface and Introduction
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/05-Masuzawa-World+Religions.pdf
 
 - id: neusnerIdeaPurityAncient1973
   author:
