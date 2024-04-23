@@ -35,6 +35,44 @@ references:
       given: Willard R.
   type: book
 
+- id: frazerGoldeneZweigStudie1977
+  author:
+    - family: Frazer
+      given: James George
+  citation-key: frazerGoldeneZweigStudie1977
+  edition: Ungekürzte Ausg.
+  event-place: Frankfurt/Main
+  ISBN: 978-3-548-03375-4
+  issued:
+    - year: 1977
+  language: de
+  number-of-pages: XXVIII, 556 S.
+  publisher: Ullstein
+  publisher-place: Frankfurt/Main
+  title: Der goldene Zweig. Eine Studie über Magie und Religion
+  title-short: Der goldene Zweig
+  type: book
+
+- id: frazerIVZaubereiUnd1977
+  author:
+    - family: Frazer
+      given: James George
+  citation-key: frazerIVZaubereiUnd1977
+  container-title: Der goldene Zweig. Eine Studie über Magie und Religion
+  edition: Ungekürzte Ausg.
+  event-place: Frankfurt/Main
+  ISBN: 978-3-548-03375-4
+  issued:
+    - year: 1977
+  language: de
+  page: 70-87
+  publisher: Ullstein
+  publisher-place: Frankfurt/Main
+  title: IV. Zauberei und Religion
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/03-Frazer-Magie_Religion.pdf
+
 - id: kippenbergEntdeckungReligionsgeschichteReligionswissenschaft1997
   author:
     - family: Kippenberg
@@ -89,6 +127,7 @@ references:
   title: Was ist Religion? Texte von Cicero bis Luhmann
   title-short: Was ist Religion?
   type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB227819462
 
 - id: Tagsc
   citation-key: Tagsc
