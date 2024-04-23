@@ -131,18 +131,43 @@ references:
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1222798
 
-- id: eliadeHeiligeUndProfane1985
+- id: eliadeEinleitung2016
   author:
     - family: Eliade
       given: Mircea
-  citation-key: eliadeHeiligeUndProfane1985
-  edition: 2. Aufl.
+  citation-key: eliadeEinleitung2016
+  collection-number: '1751'
+  collection-title: suhrkamp taschenbuch
+  container-title: Das Heilige und das Profane. Vom Wesen des Religiösen
+  edition: '5'
   event-place: Frankfurt am Main
   ISBN: 978-3-458-14192-1
   issued:
-    - year: 1985
+    - year: 2016
+  language: de
+  page: 13-20
+  publisher: Suhrkamp
+  publisher-place: Frankfurt am Main
+  title: Einleitung
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/07-Eliade_+Einleitung_Das+Heilige+und+das+Profane.pdf
+
+- id: eliadeHeiligeUndProfane2016
+  author:
+    - family: Eliade
+      given: Mircea
+  citation-key: eliadeHeiligeUndProfane2016
+  collection-number: '1751'
+  collection-title: suhrkamp taschenbuch
+  edition: '5'
+  event-place: Frankfurt am Main
+  ISBN: 978-3-458-14192-1
+  issued:
+    - year: 2016
+  language: de
   number-of-pages: 188 S.
-  publisher: Insel Verl.
+  publisher: Suhrkamp
   publisher-place: Frankfurt am Main
   title: Das Heilige und das Profane. Vom Wesen des Religiösen
   title-short: Das Heilige und das Profane
@@ -273,6 +298,31 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB022309985
 
+- id: ottoHeiligeUeberIrrationale1926
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  author:
+    - family: Otto
+      given: Rudolf
+  citation-key: ottoHeiligeUeberIrrationale1926
+  edition: '14'
+  event-place: Gotha
+  issued:
+    - year: 1926
+  language: de
+  license: http://creativecommons.org/publicdomain/mark/1.0/
+  publisher: Klotz
+  publisher-place: Gotha
+  source: Internet Archive
+  title: >-
+    Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein
+    Verhältnis zum Rationalen
+  type: book
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
+
 - id: schlieterWasIstReligion2018
   citation-key: schlieterWasIstReligion2018
   collection-number: '18785'
@@ -300,6 +350,63 @@ references:
   title: Tags
   type: document
 
+- id: tylor11Animismus1873
+  author:
+    - family: Tylor
+      given: Edward Burnett
+  citation-key: tylor11Animismus1873
+  collection-title: Bewahrte Kultur
+  container-title: >-
+    Die Anfänge der Cultur. Untersuchen über die Entwicklung der Mythologie,
+    Philosophie, Religion, Kunst und Sitte
+  event-place: Leipzig
+  ISBN: 978-3-487-12097-3
+  issued:
+    - year: 1873
+  language: de
+  note: 'OCLC: 492468858'
+  page: 412-429
+  publisher: C. F. Winter'sche Verlagshandlung
+  publisher-place: Leipzig
+  source: Open WorldCat
+  title: 11. Animismus
+  translator:
+    - family: Spengel
+      given: Johann Wilhelm
+    - family: Poske
+      given: Friedrich
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/02-Tylor1873Animismus11Kap.pdf
+
+- id: tylorAnfaengeCulturUntersuchen1873
+  author:
+    - family: Tylor
+      given: Edward Burnett
+  citation-key: tylorAnfaengeCulturUntersuchen1873
+  collection-title: Bewahrte Kultur
+  event-place: Leipzig
+  ISBN: 978-3-487-12097-3
+  issued:
+    - year: 1873
+  language: de
+  note: 'OCLC: 492468858'
+  number-of-pages: '1'
+  publisher: C. F. Winter'sche Verlagshandlung
+  publisher-place: Leipzig
+  source: Open WorldCat
+  title: >-
+    Die Anfänge der Cultur. Untersuchen über die Entwicklung der Mythologie,
+    Philosophie, Religion, Kunst und Sitte
+  title-short: Die Anfänge der Cultur. 2
+  translator:
+    - family: Spengel
+      given: Johann Wilhelm
+    - family: Poske
+      given: Friedrich
+  type: book
+  URL: https://dl.ub.uni-freiburg.de/diglit/tylor1873-1/0001
+
 - id: tylorPrimitiveCulture2018
   author:
     - family: Tylor
@@ -323,4 +430,49 @@ references:
   source: K10plus ISBN
   title: Primitive Culture
   type: chapter
+
+- id: warburgSchlangenritualReisebericht
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  author:
+    - family: Warburg
+      given: Aby
+  citation-key: warburgSchlangenritualReisebericht
+  language: de
+  note: 'OCLC: 725280604'
+  source: Open WorldCat
+  title: Schlangenritual. Ein Reisebericht
+  type: document
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/04-Warburg_Schlangenritual-Text.pdf
+
+- id: warburgSchlangenritualReisebericht2011
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  author:
+    - family: Warburg
+      given: Aby
+  citation-key: warburgSchlangenritualReisebericht2011
+  collection-title: Wagenbachs Taschenbuch
+  contributor:
+    - family: Raulff
+      given: Ulrich
+  edition: 5. Aufl
+  event-place: Berlin
+  ISBN: 978-3-8031-2672-6
+  issued:
+    - year: 2011
+  language: de
+  note: 'OCLC: 725280604'
+  number-of-pages: '141'
+  publisher: Wagenbach
+  publisher-place: Berlin
+  source: Open WorldCat
+  title: Schlangenritual. Ein Reisebericht
+  type: book
+  URL: https://d-nb.info/1011528991/04
 ...
