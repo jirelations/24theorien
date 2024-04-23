@@ -1,3 +1,121 @@
 ---
 references:
+- id: eliadeHeiligeUndProfane1985
+  author:
+    - family: Eliade
+      given: Mircea
+  citation-key: eliadeHeiligeUndProfane1985
+  edition: 2. Aufl.
+  event-place: Frankfurt am Main
+  ISBN: 978-3-458-14192-1
+  issued:
+    - year: 1985
+  number-of-pages: 188 S.
+  publisher: Insel Verl.
+  publisher-place: Frankfurt am Main
+  title: Das Heilige und das Profane. Vom Wesen des Religiösen
+  title-short: Das Heilige und das Profane
+  type: book
+
+- id: eliadeSacredProfaneNature1959
+  author:
+    - family: Eliade
+      given: Mircea
+  citation-key: eliadeSacredProfaneNature1959
+  event-place: New York
+  issued:
+    - year: 1959
+  number-of-pages: 256 S.
+  publisher: Harvest
+  publisher-place: New York
+  title: 'The sacred and the profane: The nature of religion'
+  title-short: The sacred and the profane
+  translator:
+    - family: Trask
+      given: Willard R.
+  type: book
+
+- id: kippenbergEntdeckungReligionsgeschichteReligionswissenschaft1997
+  author:
+    - family: Kippenberg
+      given: Hans Gerhard
+  citation-key: kippenbergEntdeckungReligionsgeschichteReligionswissenschaft1997
+  event-place: München
+  ISBN: 978-3-406-42882-1
+  issued:
+    - year: 1997
+  language: de
+  number-of-pages: 342 S.
+  publisher: Beck
+  publisher-place: München
+  title: 'Die Entdeckung der Religionsgeschichte : Religionswissenschaft und Moderne'
+  title-short: Die Entdeckung der Religionsgeschichte
+  type: book
+
+- id: kippenbergGegenwartUrspruenglichenReligion1997
+  citation-key: kippenbergGegenwartUrspruenglichenReligion1997
+  container-author:
+    - family: Kippenberg
+      given: Hans Gerhard
+  container-title: 'Die Entdeckung der Religionsgeschichte : Religionswissenschaft und Moderne'
+  event-place: München
+  ISBN: 978-3-406-42882-1
+  issued:
+    - year: 1997
+  language: de
+  page: 80-98
+  publisher: Beck
+  publisher-place: München
+  title: Die Gegenwart der ursprünglichen Religion in der modernen Zivilisation
+  type: chapter
+
+- id: schlieterWasIstReligion2018
+  citation-key: schlieterWasIstReligion2018
+  collection-number: '18785'
+  collection-title: Reclams Universal-Bibliothek
+  edition: '2'
+  editor:
+    - family: Schlieter
+      given: Jens
+  event-place: Ditzingen
+  ISBN: 978-3-15-018785-2
+  issued:
+    - year: 2018
+  language: ger
+  number-of-pages: '270'
+  publisher: Reclam
+  publisher-place: Ditzingen
+  source: K10plus ISBN
+  title: Was ist Religion? Texte von Cicero bis Luhmann
+  title-short: Was ist Religion?
+  type: book
+
+- id: Tagsc
+  citation-key: Tagsc
+  title: Tags
+  type: document
+
+- id: tylorPrimitiveCulture2018
+  author:
+    - family: Tylor
+      given: ''
+  citation-key: tylorPrimitiveCulture2018
+  collection-number: '18785'
+  collection-title: Reclams Universal-Bibliothek
+  container-title: Was ist Religion? Texte von Cicero bis Luhmann
+  edition: '2'
+  editor:
+    - family: Schlieter
+      given: Jens
+  event-place: Ditzingen
+  ISBN: 978-3-15-018785-2
+  issued:
+    - year: 2018
+  language: ger
+  page: 111-118
+  publisher: Reclam
+  publisher-place: Ditzingen
+  source: K10plus ISBN
+  title: Primitive Culture
+  type: chapter
 ...
