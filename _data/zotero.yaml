@@ -1,5 +1,136 @@
 ---
 references:
+- id: douglasAbominationsLeviticus2002
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  author:
+    - family: Douglas
+      given: Mary
+  citation-key: douglasAbominationsLeviticus2002
+  container-title: 'Purity and Danger: An Analysis of Concepts of Pollution and Taboo'
+  event-place: Milton, U.K.
+  ISBN: 978-1-136-48920-4
+  issued:
+    - year: 2002
+  publisher: Taylor & Francis Group
+  publisher-place: Milton, U.K.
+  source: ProQuest Ebook Central
+  title: 3. The Abominations of Leviticus
+  type: chapter
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://ebookcentral.proquest.com/lib/senc/reader.action?docID=1223047&ppg=50
+
+- id: douglasGreuelDrittenBuchs1985
+  author:
+    - family: Douglas
+      given: Mary
+  citation-key: douglasGreuelDrittenBuchs1985
+  container-title: >-
+    Reinheit und Gefährdung. Eine Studie zu Vorstellungen von Verunreinigung und
+    Tabu
+  event-place: Berlin
+  ISBN: 978-3-496-00767-8
+  issued:
+    - year: 1985
+  language: de
+  page: 60-78
+  publisher: Reimer
+  publisher-place: Berlin
+  title: 3. Die Greuel des dritten Buchs Mose
+  type: chapter
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/08-Douglas-Reinheit+und+Gefa%CC%88hrdung.pdf
+
+- id: douglasLeviticusLiterature1999
+  author:
+    - family: Douglas
+      given: Mary
+  citation-key: douglasLeviticusLiterature1999
+  event-place: Oxford
+  ISBN: 978-0-19-151838-6
+  issued:
+    - year: 1999
+  number-of-pages: 1 Online-Ressource (299 pages)
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Leviticus as Literature
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D728746
+
+- id: douglasPurityDangerAnalysis2002
+  abstract: >-
+    Purity and Danger is acknowledged as a modern masterpiece of anthropology.
+    It is widely cited in non-anthropological works and gave rise to a body of
+    application, rebuttal and development within anthropology. In 1995 the book
+    was included among the Times Literary Supplement's hundred most influential
+    non-fiction works since WWII. Incorporating the philosophy of religion and
+    science and a generally holistic approach to classification, Douglas
+    demonstrates the relevance of anthropological enquiries to an audience
+    outside her immediate academic circle. She offers an approach to
+    understanding rules of purity by examining what is considered unclean in
+    various cultures. She sheds light on the symbolism of what is considered
+    clean and dirty in relation to order in secular and religious, modern and
+    primitive life.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 23
+  author:
+    - family: Douglas
+      given: Mary
+  citation-key: douglasPurityDangerAnalysis2002
+  event-place: Milton, U.K.
+  ISBN: 978-1-136-48920-4
+  issued:
+    - year: 2002
+  publisher: Taylor & Francis Group
+  publisher-place: Milton, U.K.
+  source: ProQuest Ebook Central
+  title: 'Purity and Danger: An Analysis of Concepts of Pollution and Taboo'
+  title-short: Purity and Danger
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=https://ebookcentral.proquest.com/lib/senc/reader.action?docID=1223047&ppg=50
+
+- id: douglasReinheitUndGefahrdung1985
+  author:
+    - family: Douglas
+      given: Mary
+  citation-key: douglasReinheitUndGefahrdung1985
+  event-place: Berlin
+  ISBN: 978-3-496-00767-8
+  issued:
+    - year: 1985
+  number-of-pages: 242 S.
+  publisher: Reimer
+  publisher-place: Berlin
+  title: >-
+    Reinheit und Gefährdung. Eine Studie zu Vorstellungen von Verunreinigung und
+    Tabu
+  title-short: Reinheit und Gefährdung
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB052022455
+
+- id: douglasRiskBlame2013
+  author:
+    - family: Douglas
+      given: Mary
+  citation-key: douglasRiskBlame2013
+  event-place: London
+  ISBN: 978-1-136-49004-0
+  issued:
+    - year: 2013
+  number-of-pages: 1 Online-Ressource (330 pages)
+  publisher: Taylor and Francis
+  publisher-place: London
+  title: Risk and Blame
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1222798
+
 - id: eliadeHeiligeUndProfane1985
   author:
     - family: Eliade
@@ -34,6 +165,25 @@ references:
     - family: Trask
       given: Willard R.
   type: book
+
+- id: fardonMaryDouglasIntellectual2002
+  author:
+    - family: Fardon
+      given: Richard
+  citation-key: fardonMaryDouglasIntellectual2002
+  edition: 1st ed.
+  event-place: London
+  ISBN: 978-0-203-02022-7
+  issued:
+    - year: 2002
+  number-of-pages: 1 Online-Ressource (337 pages)
+  publisher: Taylor and Francis
+  publisher-place: London
+  title: 'Mary Douglas : An Intellectual Biography'
+  title-short: Mary Douglas
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D165453
 
 - id: frazerGoldeneZweigStudie1977
   author:
@@ -106,6 +256,22 @@ references:
   publisher-place: München
   title: Die Gegenwart der ursprünglichen Religion in der modernen Zivilisation
   type: chapter
+
+- id: neusnerIdeaPurityAncient1973
+  author:
+    - family: Neusner
+      given: Jacob
+  citation-key: neusnerIdeaPurityAncient1973
+  event-place: Leiden
+  ISBN: 978-90-04-03745-8
+  issued:
+    - year: 1973
+  number-of-pages: XII, 153 S.
+  publisher: Brill
+  publisher-place: Leiden
+  title: The idea of purity in ancient Judaism
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB022309985
 
 - id: schlieterWasIstReligion2018
   citation-key: schlieterWasIstReligion2018
