@@ -287,6 +287,48 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/03-Frazer-Magie_Religion.pdf
 
+- id: frazerjamesgeorgeGoldenBough1925
+  abstract: |-
+    Book Source: Digital Library of India Item 2015.210147
+
+    dc.contributor.author: Frazer James George
+    dc.date.accessioned: 2015-07-09T16:40:12Z
+    dc.date.available: 2015-07-09T16:40:12Z
+    dc.date.digitalpublicationdate: 2003-10-22
+    dc.date.citation: 1925
+    dc.identifier: librarian, rashtrapati bhavan
+    dc.identifier.barcode: 6010010078983
+    dc.identifier.origpath: /data_copy/upload/0078/988
+    dc.identifier.copyno: 1
+    dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/210147
+    dc.description.scanningcentre: Rashtrapati Bhavan Library
+    dc.description.main: 1
+    dc.description.tagged: 0
+    dc.description.totalpages: 784
+    dc.format.mimetype: application/pdf
+    dc.language.iso: English
+    dc.publisher.digitalrepublisher: Rashtrapati Bhavan
+    dc.publisher: Machmillan And Co Limited Lodon
+    dc.rights: Out_of_copyright
+    dc.source.library: Rashtrapati Bhavan Library
+    dc.subject.classification: Branches Of Psychology
+    dc.title: The Golden Bough
+    dc.rights.holder: Frazer James George
+  accessed:
+    - year: 2024
+      month: 5
+      day: 7
+  author:
+    - literal: Frazer James George
+  citation-key: frazerjamesgeorgeGoldenBough1925
+  issued:
+    - year: 1925
+  language: eng
+  source: Internet Archive
+  title: The Golden Bough
+  type: book
+  URL: http://archive.org/details/in.ernet.dli.2015.210147
+
 - id: geertzDeepPlayBemerkungen2003
   accessed:
     - year: 2024
@@ -465,6 +507,33 @@ references:
   publisher-place: München
   title: Die Gegenwart der ursprünglichen Religion in der modernen Zivilisation
   type: chapter
+
+- id: leachKingshipDivinityUnpublished2011
+  accessed:
+    - year: 2024
+      month: 5
+      day: 7
+  author:
+    - family: Leach
+      given: Sir Edmund Ronald
+  citation-key: leachKingshipDivinityUnpublished2011
+  container-title: 'HAU: Journal of Ethnographic Theory'
+  DOI: 10.14318/hau1.1.012
+  ISSN: 2575-1433
+  issue: '1'
+  issued:
+    - year: 2011
+      month: 9
+  page: 279-298
+  publisher: The University of Chicago Press
+  source: journals.uchicago.edu (Atypon)
+  title: >-
+    Kingship and divinity: The unpublished Frazer Lecture, Oxford, 28 October
+    1982
+  title-short: Kingship and divinity
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/10.14318/hau1.1.012
+  volume: '1'
 
 - id: masuzawaInterregnumOmnibusGuide2005
   author:
@@ -688,6 +757,57 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB227819462
 
+- id: schuettpelzAufSchwelleZwischen2016
+  author:
+    - family: Schüttpelz
+      given: Erhard
+  citation-key: schuettpelzAufSchwelleZwischen2016
+  container-title: 'Animismus: Revisionen der Moderne'
+  edition: '2'
+  editor:
+    - family: Albers
+      given: Irene
+    - family: Franke
+      given: Anselm
+  event-place: Zürich
+  ISBN: '9783037341889'
+  issued:
+    - year: 2016
+  language: de
+  page: 153-172
+  publisher: Diaphanes
+  publisher-place: Zürich
+  title: >-
+    Auf der Schwelle zwischen Animismus und Spiritismus: der "Geisterangriff"
+    auf Edward Tylor (London 1872)
+  title-short: Auf der Schwelle zwischen Animismus und Spiritismus
+  type: chapter
+  URL: https://ubffm.hds.hebis.de/Record/HEB368268454
+
+- id: smithWhenBoughBreaks1973
+  accessed:
+    - year: 2024
+      month: 5
+      day: 7
+  author:
+    - family: Smith
+      given: Jonathan Z.
+  citation-key: smithWhenBoughBreaks1973
+  container-title: History of Religions
+  DOI: 10.1086/462686
+  ISSN: 0018-2710
+  issue: '4'
+  issued:
+    - year: 1973
+      month: 5
+  page: 342-371
+  publisher: The University of Chicago Press
+  source: journals.uchicago.edu (Atypon)
+  title: When the Bough Breaks
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/10.1086/462686
+  volume: '12'
+
 - id: Tagsc
   citation-key: Tagsc
   title: Tags
@@ -777,7 +897,7 @@ references:
 - id: tylorPrimitiveCulture2018
   author:
     - family: Tylor
-      given: ''
+      given: Edward
   citation-key: tylorPrimitiveCulture2018
   collection-number: '18785'
   collection-title: Reclams Universal-Bibliothek
@@ -797,6 +917,34 @@ references:
   source: K10plus ISBN
   title: Primitive Culture
   type: chapter
+
+- id: tylorPrimitiveCultureResearches1871
+  abstract: '1'
+  accessed:
+    - year: 2024
+      month: 4
+      day: 30
+  author:
+    - family: Tylor
+      given: Edward Burnett
+  call-number: ACE8128
+  citation-key: tylorPrimitiveCultureResearches1871
+  contributor:
+    - literal: Harold B. Lee Library
+  event-place: London
+  issued:
+    - year: 1871
+  language: eng
+  number-of-pages: '470'
+  publisher: John Murray
+  publisher-place: London
+  source: Internet Archive
+  title: >-
+    Primitive culture: Researches into the development of mythology, philosophy,
+    religion, art, and custom
+  title-short: Primitive culture
+  type: book
+  URL: http://archive.org/details/primitiveculture00tylo
 
 - id: warburgSchlangenritualReisebericht
   accessed:
