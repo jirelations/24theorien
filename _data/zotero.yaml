@@ -267,6 +267,23 @@ references:
   title-short: Der goldene Zweig
   type: book
 
+- id: FrazerianRootsContemporary
+  abstract: >-
+    The association of religion with violence rather than with peace long
+    antedates 9/11. Among theorists of religion, the association goes back at
+    least to J.G. Frazer, author of the classic The Golde...
+  accessed:
+    - year: 2024
+      month: 5
+      day: 7
+  citation-key: FrazerianRootsContemporary
+  container-title: Religion
+  language: en
+  source: www-tandfonline-com.proxy.ub.uni-frankfurt.de
+  title: The Frazerian roots of contemporary theories of religion and violence
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/abs/10.1016/j.religion.2007.01.006
+
 - id: frazerIVZaubereiUnd1977
   author:
     - family: Frazer
