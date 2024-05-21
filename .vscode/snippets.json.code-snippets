@@ -22,5 +22,13 @@
 			"{% include img-row.html images='${1:image path (separate multiple with comma)}' %}"
 		],
 		"description": "Add div containing row of images"
+	},
+	"note": {
+		/* "scope": "Markdown", */
+		"prefix": "note",
+		"body": [
+			"<aside class='notes'>\n\n${1}\n\n</aside>"
+		],
+		"description": "Add aside element for RevealJS notes"
 	}
 }

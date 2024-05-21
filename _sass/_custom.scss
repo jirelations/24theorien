@@ -27,6 +27,10 @@ child elements to have specified height.  */
     height: 100%;
 }
 
+.reveal img {
+    margin: auto;
+}
+
 /* Container for a row of images in slide that 
 automatically flex and fill row. */
 .img-row {

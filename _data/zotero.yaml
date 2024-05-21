@@ -39,6 +39,22 @@ references:
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB090405951
 
+- id: bredekampAbyWarburgIndianer2019
+  author:
+    - family: Bredekamp
+      given: Horst
+  citation-key: bredekampAbyWarburgIndianer2019
+  event-place: Berlin
+  ISBN: 978-3-8031-3685-5
+  issued:
+    - year: 2019
+  number-of-pages: 170 Seiten
+  publisher: Verlag Klaus Wagenbach
+  publisher-place: Berlin
+  title: 'Aby Warburg, der Indianer : Berliner Erkundungen einer liberalen Ethnologie'
+  title-short: Aby Warburg, der Indianer
+  type: book
+
 - id: douglasAbominationsLeviticus2002
   accessed:
     - year: 2024
@@ -525,6 +541,34 @@ references:
   title: Die Gegenwart der ursprünglichen Religion in der modernen Zivilisation
   type: chapter
 
+- id: korffKasten117Aby2007
+  citation-key: korffKasten117Aby2007
+  collection-number: Bd. 105
+  collection-title: Untersuchungen des Ludwig-Uhland-Instituts der Universität Tübingen
+  editor:
+    - family: Korff
+      given: Gottfried
+    - literal: >-
+        Sonderforschungsbereich Kriegserfahrungen - Krieg und Gesellschaft in
+        der Neuzeit
+    - literal: Ludwig-Uhland-Institut für Empirische Kulturwissenschaft
+  event-place: Tübingen
+  ISBN: 978-3-932512-44-5
+  issued:
+    - year: 2007
+  language: ger
+  number-of-pages: '373'
+  publisher: Tübinger Vereinigung für Volkskunde e.V
+  publisher-place: Tübingen
+  source: K10plus ISBN
+  title: >-
+    Kasten 117: Aby Warburg und der Aberglaube im Ersten Weltkrieg: [Vorträge,
+    die auf einer Konferenz des Tübinger Sonderforschungsbereichs 437
+    "Kriegserfahrungen. Krieg und Gesellschaft in der Neuzeit" in Tübingen im
+    März 2006 diskutiert worden sind]
+  title-short: Kasten 117
+  type: book
+
 - id: leachKingshipDivinityUnpublished2011
   accessed:
     - year: 2024
@@ -830,6 +874,56 @@ references:
   title: Tags
   type: document
 
+- id: tremlUberlegungenEntstehungBegriff2018
+  abstract: >-
+    Der Kunst- und Kulturhistoriker Aby Warburg zählt zu den Ahnherren der
+    Bildwissenschaft, die in Frankreich, Deutschland und den USA ihre
+    wichtigsten Vertreterinnen und Vertreter hat. Er ist sogar ihr erster
+    Wortführer in Methode und Programm gewesen. Sein Interesse galt nicht nur
+    Kunstwerken, sondern Bildern und ihren Wirkungen überhaupt. Er analysierte
+    Gemälde Botticellis und Manets ebenso wie Briefmarken und Plakate. Überall
+    fand Warburg Gesten und Gebärden, in denen tiefste Trauer oder höchster
+    Triumph ausgedrückt waren und die Szenen mörderischer Verfolgung oder
+    schützender Sorge zeigten. In seinem Dürer-Vortrag von 1905 fand er dafür
+    den Begriff "Pathosformel", in der psychische Energie gebunden sei und die
+    "archäologisch getreu" nachgewiesen werden könne. Pathosformeln wurden zum
+    Instrument seiner kulturgeschichtlich weit ausholenden Studien. Warburg
+    zufolge ist in Pathosformeln seit der Antike der Weg darstellbar, der "aus
+    dem stereometrisch gestaffelt gedachten Aufstiegsraum der Seele" – wie ihn
+    die Mystiker aller Religionen kennen – zum "unendlichen Raum" führe, den er
+    selbst den "mathematischen und psychotechnischen Denkraum" nannte. Er hat
+    ihn auf der dritten der programmatischen Tafeln des Bilderatlasses
+    dargestellt. Dieser Weg war für ihn gleichbedeutend mit der Befreiung des
+    Menschen aus Dämonenfurcht und Sternenglauben, aus Abhängigkeit und Angst.
+    Endlich los kommen müssen wir (so Warburgs Appell) von der dämonischen Seite
+    der heidnischen Götter, die die Rückenansicht ihrer olympischen Heiterkeit
+    ist! In ihnen seien Logik und Magie vereint, die sich "wie Tropus und
+    Metapher" verhielten, die "auf einem Stamme geimpfet blühten ". Warburg
+    suchte nach dem unklassischen, weil ganz auf die Gegenwart bezogenen
+    Nachleben der Antike in Wort und Bild.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 14
+  author:
+    - family: Treml
+      given: Martin
+  citation-key: tremlUberlegungenEntstehungBegriff2018
+  container-title: Forum Interdisziplinäre Begriffsgeschichte
+  ISSN: 2195-0598
+  issue: '1'
+  issued:
+    - year: 2018
+  language: deu
+  license: http://publikationen.ub.uni-frankfurt.de/home/index/help#policies
+  page: 15-21
+  publisher: Zentrum für Literatur- und Kulturforschung Berlin (ZfL)
+  source: publikationen.ub.uni-frankfurt.de
+  title: Überlegungen zu Entstehung, Begriff und Methode von Aby Warburgs Bilderatlas
+  type: article-journal
+  URL: http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47205
+  volume: '7'
+
 - id: turnerRitualProcessStructure1969
   accessed:
     - year: 2024
@@ -963,6 +1057,80 @@ references:
   type: book
   URL: http://archive.org/details/primitiveculture00tylo
 
+- id: warburgAbyWarburgBilderatlas2020
+  author:
+    - family: Warburg
+      given: Aby
+    - family: Scherer
+      given: Bernd M.
+    - family: Sherman
+      given: William H.
+    - family: Wedepohl
+      given: Claudia
+  citation-key: warburgAbyWarburgBilderatlas2020
+  event-place: Berlin
+  ISBN: 978-3-7757-4693-9
+  issued:
+    - year: 2020
+  number-of-pages: 183 Seiten
+  publisher: Hatje Cantz
+  publisher-place: Berlin
+  title: 'Aby Warburg: Bilderatlas MNEMOSYNE : the original'
+  title-short: Aby Warburg
+  type: book
+
+- id: warburgHeidnischantikeWeissagungWort1919
+  accessed:
+    - year: 2024
+      month: 5
+      day: 14
+  author:
+    - family: Warburg
+      given: Aby
+  citation-key: warburgHeidnischantikeWeissagungWort1919
+  container-title: Sitzungsberichte der Heidelberger Akademie der Wissenschaften
+  issued:
+    - year: 1919
+  language: de
+  publisher: Deutsche Nationalbibliothek
+  source: Google Scholar
+  title: Heidnisch-antike Weissagung in Wort und Bild zu Luthers Zeiten
+  type: article-journal
+  URL: https://d-nb.info/110905758X/34
+  volume: '26'
+
+- id: warburgImagesRegionPueblo2016
+  abstract: >-
+    Aby M. Warburg (1866–1929) is recognized not only as one of the century’s
+    preeminent art and Renaissance historians but also as a founder of
+    twentieth-century methods in iconology and cultural studies in general.
+    Warburg’s 1923 lecture, first published in German in 1988 and now available
+    in the first complete English translation, offers at once a window on his
+    career, a formative statement of his cultural history of modernity, and a
+    document in the ethnography of the American Southwest. This edition includes
+    thirty-nine photographs, many of them originally presented as slides with
+    the speech, and a rich interpretive essay by the translator.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 14
+  author:
+    - family: Warburg
+      given: Aby M.
+  citation-key: warburgImagesRegionPueblo2016
+  DOI: 10.7298/5at5-b941
+  ISBN: 978-1-5017-0770-4 978-0-8014-8435-3 978-1-5017-0769-8 978-0-8014-2973-6
+  issued:
+    - year: 2016
+  language: English
+  license: open access
+  note: 'Accepted: 2023-04-18T10:29:20Z'
+  publisher: Cornell University Press
+  source: directory.doabooks.org
+  title: Images from the Region of the Pueblo Indians of North America
+  type: book
+  URL: https://library.oapen.org/bitstream/20.500.12657/62133/1/9781501707704.pdf
+
 - id: warburgSchlangenritualReisebericht
   accessed:
     - year: 2024
@@ -1007,6 +1175,22 @@ references:
   title: Schlangenritual. Ein Reisebericht
   type: book
   URL: https://d-nb.info/1011528991/04
+
+- id: warburgWerkeBand2018
+  author:
+    - family: Warburg
+      given: Aby
+  citation-key: warburgWerkeBand2018
+  edition: Erste Auflage
+  event-place: Berlin
+  ISBN: 978-3-518-29842-8
+  issued:
+    - year: 2018
+  number-of-pages: 913 Seiten
+  publisher: Suhrkamp
+  publisher-place: Berlin
+  title: Werke in einem Band
+  type: book
 
 - id: weberProtestantischeEthikUnd1934
   author:
