@@ -55,6 +55,32 @@ references:
   title-short: Aby Warburg, der Indianer
   type: book
 
+- id: burkhardreinartzEmilCioranGedanke2016
+  abstract: >-
+    Er gilt vielen als der bedeutendste Kulturkritiker des 20. Jahrhunderts: der
+    rumänische Philosoph und Schriftsteller Emil Cioran. Geplagt von extremer
+    Schlaflosigkeit, korrespondieren seine seelischen und körperlichen Qualen
+    mit seinem dunklen Weltbild. Er war ein Nihilist und gleichzeitig ein
+    verzweifelter Gottsucher.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 28
+  citation-key: burkhardreinartzEmilCioranGedanke2016
+  container-title: Deutschlandfunk
+  director:
+    - literal: Burkhard Reinartz
+  issued:
+    - year: 2016
+      month: 11
+      day: 23
+  language: de
+  publisher: Deutschlandfunk
+  title: Emil Cioran - Ein Gedanke muss ätzen wie ein Gifttropfen
+  type: broadcast
+  URL: >-
+    https://www.deutschlandfunk.de/emil-cioran-ein-gedanke-muss-aetzen-wie-ein-gifttropfen-100.html
+
 - id: douglasAbominationsLeviticus2002
   accessed:
     - year: 2024
@@ -596,6 +622,22 @@ references:
   URL: https://www.journals.uchicago.edu/doi/10.14318/hau1.1.012
   volume: '1'
 
+- id: maneaHappyGuiltMircea1991
+  author:
+    - family: Manea
+      given: Norman
+  citation-key: maneaHappyGuiltMircea1991
+  container-title: New Republic
+  ISSN: 0028-6583
+  issue: '6'
+  issued:
+    - year: 1991
+  language: English
+  page: 27-36
+  title: 'Happy Guilt: Mircea Eliade, fascism, and the unhappy fate of Romania'
+  type: article-journal
+  volume: '205'
+
 - id: masuzawaInterregnumOmnibusGuide2005
   author:
     - family: Masuzawa
@@ -795,6 +837,58 @@ references:
     Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich
   title-short: Fundamentalismus als patriarchalische Protestbewegung
   type: book
+
+- id: roetherReligionsphilosophMirceaEliade2018
+  abstract: >-
+    Der rumänische Religionsphilosoph Mircea Eliade gilt als der "Einstein der
+    Religionsgeschichte". Er vertrat eine scheinbar simple Botschaft: Die
+    Menschheit solle zurückkehren zu ihren religiösen Wurzeln, um die Probleme
+    der Moderne zu lösen. Damit fand Eliade in ganz unterschiedlichen Milieus
+    Zuspruch – von Hippies bis zur Neuen Rechten.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 28
+  citation-key: roetherReligionsphilosophMirceaEliade2018
+  container-title: Deutschlandfunk
+  director:
+    - family: Röther
+      given: Christian
+  issued:
+    - year: 2018
+      month: 1
+      day: 3
+  language: de
+  publisher: Deutschlandfunk
+  title: Religionsphilosoph Mircea Eliade - Heilung durch das Heilige
+  type: broadcast
+  URL: >-
+    https://www.deutschlandfunk.de/religionsphilosoph-mircea-eliade-heilung-durch-das-heilige-100.html
+
+- id: roetherTheologeRudolfOtto2019
+  abstract: >-
+    Vor 150 Jahren, am 25. September 1869, wurde Rudolf Otto geboren. Der
+    evangelische Theologe prägt – und spaltet – bis heute die
+    Religionsforschung, vor allem durch sein Hauptwerk "Das Heilige". Darin ist
+    Otto einem schrecklich-schönen Geheimnis auf der Spur.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 28
+  citation-key: roetherTheologeRudolfOtto2019
+  director:
+    - family: Röther
+      given: Christian
+  issued:
+    - year: 2019
+      month: 9
+      day: 25
+  language: de
+  publisher: Deutschlandfunk
+  title: Theologe Rudolf Otto - Das heilige Geheimnis
+  type: broadcast
+  URL: >-
+    https://www.deutschlandfunk.de/theologe-rudolf-otto-das-heilige-geheimnis-100.html
 
 - id: schlieterWasIstReligion2018
   citation-key: schlieterWasIstReligion2018
