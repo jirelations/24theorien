@@ -51,6 +51,10 @@ automatically flex and fill row. */
     object-position: center;
 }
 
+.contain>img {
+    object-fit: contain;
+}
+
 /* Row height, if specified, is proportional to 12. */
 .row-2 {
     height: calc(100% * 2/12);

@@ -254,6 +254,29 @@ references:
   title-short: Das Heilige und das Profane
   type: book
 
+- id: eliadeMirceaEliadeTurning2006
+  author:
+    - family: Eliade
+      given: Mircea
+  call-number: BL41 .T49 2006
+  citation-key: eliadeMirceaEliadeTurning2006
+  container-title: 'Thinking about religion: A reader'
+  editor:
+    - family: Strenski
+      given: Ivan
+  event-place: Malden, MA
+  ISBN: 978-1-4051-2166-8 978-1-4051-2167-5
+  issued:
+    - year: 2006
+  language: en
+  note: 'OCLC: ocm60697056'
+  page: 223-247
+  publisher: Blackwell Pub
+  publisher-place: Malden, MA
+  source: Library of Congress ISBN
+  title: 'Mircea Eliade: Turning the ''Worm of Doubt'''
+  type: chapter
+
 - id: eliadeSacredProfaneNature1959
   author:
     - family: Eliade
@@ -533,6 +556,44 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/10-Geertz+-+1973+-+Thick+description+Toward+an+interpretive+theory+o.pdf
 
+- id: GuideMirceaEliade
+  accessed:
+    - year: 2024
+      month: 5
+      day: 31
+  citation-key: GuideMirceaEliade
+  title: Guide to the Mircea Eliade Papers 1926-1998
+  type: webpage
+  URL: >-
+    https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.ELIADEM
+
+- id: hellwig-unruhEinsteinReligionsgeschichte2007
+  abstract: >-
+    Mircea Eliade gehört zu den bedeutendsten Religionsphilosophen des 20.
+    Jahrhunderts. Der Mehrfachbegabte schrieb ebenso eine Anzahl von Romanen und
+    Erzählungen, die in zahlreiche Sprachen übersetzt wurden. Doch wie fast jede
+    leuchtende Oberfläche, hatte auch er eine Kehrseite: In den 30er Jahren war
+    Eliade Sympathisant der Eisernen Garde, einer rumänischen faschistischen
+    Bewegung.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 31
+  citation-key: hellwig-unruhEinsteinReligionsgeschichte2007
+  container-title: Deutschlandfunk
+  director:
+    - family: Hellwig-Unruh
+      given: Renate
+  issued:
+    - year: 2007
+      month: 3
+      day: 9
+  language: de
+  publisher: Deutschlandfunk
+  title: Der Einstein der Religionsgeschichte
+  type: broadcast
+  URL: https://www.deutschlandfunk.de/der-einstein-der-religionsgeschichte-100.html
+
 - id: kippenbergEntdeckungReligionsgeschichteReligionswissenschaft1997
   author:
     - family: Kippenberg
@@ -700,6 +761,43 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/05-Masuzawa-World+Religions.pdf
 
+- id: MirceaEliade2015
+  abstract: >-
+    Mircea Eliade was the most influential comparativist and interpreter of
+    religion of the modern day. The religious structure of Eliade's thinking
+    clashes radically and systematically with the empirical epistemological and
+    ontological foundations of the modern secular world. As the depth
+    psychologist theorizes about the way the psyche works, say, in terms of
+    Freud's theory of ego, id, and superego, Eliade applies his own theory of
+    the deep mind. Eliade's creative hermeneutics is designed to rally scholars
+    of religion to a bold, revolutionary approach to their subject. For Eliade,
+    all religious experience rests upon a template of the two most basic
+    conditions of experience itself - time and space. History in Romania had
+    been for Eliade literally a terrible, murderous disaster, not only for him,
+    but for every political and social value to which he had adhered since
+    returning from India.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 31
+  citation-key: MirceaEliade2015
+  container-title: Understanding Theories of Religion
+  DOI: 10.1002/9781394261017.ch13
+  ISBN: 978-1-394-26101-7
+  issued:
+    - year: 2015
+  language: en
+  license: >-
+    Copyright © 2015 John Wiley & Sons, Ltd. Published 2015 by John Wiley &
+    Sons, Ltd.
+  page: 142-154
+  publisher: John Wiley & Sons, Ltd
+  section: '13'
+  source: Wiley Online Library
+  title: Mircea Eliade
+  type: chapter
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394261017.ch13
+
 - id: neusnerIdeaPurityAncient1973
   author:
     - family: Neusner
@@ -775,6 +873,22 @@ references:
   type: book
   URL: >-
     https://link-springer-com.proxy.ub.uni-frankfurt.de/book/10.1007/978-3-531-18924-6
+
+- id: rennieMirceaEliadeUnderstanding2013
+  author:
+    - family: Rennie
+      given: Bryan
+  citation-key: rennieMirceaEliadeUnderstanding2013
+  container-title: Russian History
+  ISSN: 0094-288X
+  issue: '2'
+  issued:
+    - year: 2013
+  language: English
+  page: 264-280
+  title: Mircea Eliade's Understanding of Religion and Eastern Christian Thought.
+  type: article-journal
+  volume: '40'
 
 - id: reuterPraxeologieStrukturUnd2018
   accessed:
@@ -963,6 +1077,25 @@ references:
   URL: https://www.journals.uchicago.edu/doi/10.1086/462686
   volume: '12'
 
+- id: strenskiThinkingReligionReader2006
+  call-number: BL41 .T49 2006
+  citation-key: strenskiThinkingReligionReader2006
+  editor:
+    - family: Strenski
+      given: Ivan
+  event-place: Malden, MA
+  ISBN: 978-1-4051-2166-8 978-1-4051-2167-5
+  issued:
+    - year: 2006
+  note: 'OCLC: ocm60697056'
+  number-of-pages: '256'
+  publisher: Blackwell Pub
+  publisher-place: Malden, MA
+  source: Library of Congress ISBN
+  title: 'Thinking about religion: a reader'
+  title-short: Thinking about religion
+  type: book
+
 - id: Tagsc
   citation-key: Tagsc
   title: Tags
@@ -1017,6 +1150,30 @@ references:
   type: article-journal
   URL: http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47205
   volume: '7'
+
+- id: tribuneMIRCEAELIADERELIGION1986
+  abstract: >-
+    Mircea Eliade, 79, professor emeritus of the history of religions at the
+    Divinity School of the University of Chicago, was a lifelong student of the
+    history of man`s religious aspirations. He was c…
+  accessed:
+    - year: 2024
+      month: 5
+      day: 31
+  author:
+    - family: Tribune
+      given: CHICAGO TRIBUNE | Chicago
+  citation-key: tribuneMIRCEAELIADERELIGION1986
+  container-title: Chicago Tribune
+  issued:
+    - year: 1986
+      month: 4
+      day: 23
+  language: en-US
+  title: MIRCEA ELIADE; U. OF C. RELIGION PROF EMERITUS
+  type: post-weblog
+  URL: >-
+    https://www.chicagotribune.com/1986/04/23/mircea-eliade-u-of-c-religion-prof-emeritus/
 
 - id: turnerRitualProcessStructure1969
   accessed:
