@@ -1,5 +1,33 @@
 ---
 references:
+- id: bernerMirceaEliade190719861997
+  accessed:
+    - year: 2024
+      month: 6
+      day: 4
+  author:
+    - family: Berner
+      given: Ulrich
+  citation-key: bernerMirceaEliade190719861997
+  container-title: >-
+    Klassiker der Religionswissenschaft: von Friedrich Schleiermacher bis Mircea
+    Eliade
+  edition: 3. Aufl., unveränd. Nachdr
+  editor:
+    - family: Michaels
+      given: Axel
+  event-place: München
+  ISBN: 978-3-406-61204-6
+  issued:
+    - year: 1997
+  language: de
+  page: 343-353
+  publisher: Beck
+  publisher-place: München
+  source: Google Scholar
+  title: Mircea Eliade (1907-1986)
+  type: chapter
+
 - id: bourdieuFunktionsweiseReligioesenFeldes2000
   author:
     - family: Bourdieu
@@ -54,32 +82,6 @@ references:
   title: 'Aby Warburg, der Indianer : Berliner Erkundungen einer liberalen Ethnologie'
   title-short: Aby Warburg, der Indianer
   type: book
-
-- id: burkhardreinartzEmilCioranGedanke2016
-  abstract: >-
-    Er gilt vielen als der bedeutendste Kulturkritiker des 20. Jahrhunderts: der
-    rumänische Philosoph und Schriftsteller Emil Cioran. Geplagt von extremer
-    Schlaflosigkeit, korrespondieren seine seelischen und körperlichen Qualen
-    mit seinem dunklen Weltbild. Er war ein Nihilist und gleichzeitig ein
-    verzweifelter Gottsucher.
-  accessed:
-    - year: 2024
-      month: 5
-      day: 28
-  citation-key: burkhardreinartzEmilCioranGedanke2016
-  container-title: Deutschlandfunk
-  director:
-    - literal: Burkhard Reinartz
-  issued:
-    - year: 2016
-      month: 11
-      day: 23
-  language: de
-  publisher: Deutschlandfunk
-  title: Emil Cioran - Ein Gedanke muss ätzen wie ein Gifttropfen
-  type: broadcast
-  URL: >-
-    https://www.deutschlandfunk.de/emil-cioran-ein-gedanke-muss-aetzen-wie-ein-gifttropfen-100.html
 
 - id: douglasAbominationsLeviticus2002
   accessed:
@@ -211,6 +213,25 @@ references:
   type: book
   URL: >-
     http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1222798
+
+- id: duschinskyPurityDangerNow2016
+  call-number: GN471.4 .P87 2016
+  citation-key: duschinskyPurityDangerNow2016
+  edition: First published
+  editor:
+    - family: Duschinsky
+      given: Robbie
+  event-place: London
+  ISBN: 978-1-138-69370-8
+  issued:
+    - year: 2016
+  number-of-pages: '286'
+  publisher: Routledge, Taylor & Francis Group
+  publisher-place: London
+  source: Library of Congress ISBN
+  title: 'Purity and danger now: new perspectives'
+  title-short: Purity and danger now
+  type: book
 
 - id: eliadeEinleitung2016
   author:
@@ -410,6 +431,32 @@ references:
   title: The Golden Bough
   type: book
   URL: http://archive.org/details/in.ernet.dli.2015.210147
+
+- id: frevelPurityFormingReligious2013
+  accessed:
+    - year: 2024
+      month: 6
+      day: 8
+  author:
+    - family: Frevel
+      given: Christian
+    - family: Nihan
+      given: Christophe
+  citation-key: frevelPurityFormingReligious2013
+  DOI: 10.1163/9789004232297
+  ISBN: 978-90-04-23229-7 978-90-04-23210-5
+  issued:
+    - year: 2013
+      month: 1
+      day: 1
+  language: en
+  publisher: BRILL
+  source: DOI.org (Crossref)
+  title: >-
+    Purity and the Forming of Religious Traditions in the Ancient Mediterranean
+    World and Ancient Judaism
+  type: book
+  URL: https://brill.com/view/title/21888
 
 - id: geertzDeepPlayBemerkungen2003
   accessed:
@@ -761,6 +808,27 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/05-Masuzawa-World+Religions.pdf
 
+- id: michaelsKlassikerReligionswissenschaftFriedrich2010
+  citation-key: michaelsKlassikerReligionswissenschaftFriedrich2010
+  edition: 3. Aufl., unveränd. Nachdr
+  editor:
+    - family: Michaels
+      given: Axel
+  event-place: München
+  ISBN: 978-3-406-61204-6
+  issued:
+    - year: 2010
+  language: ger
+  number-of-pages: '427'
+  publisher: Beck
+  publisher-place: München
+  source: K10plus ISBN
+  title: >-
+    Klassiker der Religionswissenschaft: von Friedrich Schleiermacher bis Mircea
+    Eliade
+  title-short: Klassiker der Religionswissenschaft
+  type: book
+
 - id: MirceaEliade2015
   abstract: >-
     Mircea Eliade was the most influential comparativist and interpreter of
@@ -873,6 +941,33 @@ references:
   type: book
   URL: >-
     https://link-springer-com.proxy.ub.uni-frankfurt.de/book/10.1007/978-3-531-18924-6
+
+- id: reinartzEmilCioranGedanke2016
+  abstract: >-
+    Er gilt vielen als der bedeutendste Kulturkritiker des 20. Jahrhunderts: der
+    rumänische Philosoph und Schriftsteller Emil Cioran. Geplagt von extremer
+    Schlaflosigkeit, korrespondieren seine seelischen und körperlichen Qualen
+    mit seinem dunklen Weltbild. Er war ein Nihilist und gleichzeitig ein
+    verzweifelter Gottsucher.
+  accessed:
+    - year: 2024
+      month: 5
+      day: 28
+  citation-key: reinartzEmilCioranGedanke2016
+  container-title: Deutschlandfunk
+  director:
+    - family: Reinartz
+      given: Burkhard
+  issued:
+    - year: 2016
+      month: 11
+      day: 23
+  language: de
+  publisher: Deutschlandfunk
+  title: Emil Cioran - Ein Gedanke muss ätzen wie ein Gifttropfen
+  type: broadcast
+  URL: >-
+    https://www.deutschlandfunk.de/emil-cioran-ein-gedanke-muss-aetzen-wie-ein-gifttropfen-100.html
 
 - id: rennieMirceaEliadeUnderstanding2013
   author:
