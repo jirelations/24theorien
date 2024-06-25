@@ -808,6 +808,31 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/05-Masuzawa-World+Religions.pdf
 
+- id: meadBaliPersonalityFormation2001
+  accessed:
+    - year: 2024
+      month: 6
+      day: 25
+  author:
+    - family: Mead
+      given: Margaret
+    - family: Bateson
+      given: Gregory
+  citation-key: meadBaliPersonalityFormation2001
+  genre: web page
+  issued:
+    - year: 2001
+      month: 11
+      day: 30
+  language: eng
+  license: text is US government work
+  title: >-
+    Bali: Personality Formation - Margaret Mead: Human Nature and the Power of
+    Culture | Exhibitions - Library of Congress
+  title-short: Bali
+  type: webpage
+  URL: https://www.loc.gov/exhibits/mead/field-bali.html
+
 - id: michaelsKlassikerReligionswissenschaftFriedrich2010
   citation-key: michaelsKlassikerReligionswissenschaftFriedrich2010
   edition: 3. Aufl., unveränd. Nachdr
@@ -1402,6 +1427,16 @@ references:
   title-short: Primitive culture
   type: book
   URL: http://archive.org/details/primitiveculture00tylo
+
+- id: VideoAudioClifford
+  accessed:
+    - year: 2024
+      month: 6
+      day: 25
+  citation-key: VideoAudioClifford
+  title: 'Video & Audio: Clifford Geertz - Metadata'
+  type: webpage
+  URL: https://www.sms.cam.ac.uk/media/1092398
 
 - id: warburgAbyWarburgBilderatlas2020
   author:
