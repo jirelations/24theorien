@@ -1587,4 +1587,19 @@ references:
   publisher-place: Tübingen
   title: Die protestantische Ethik und der Geist des Kapitalismus
   type: book
+
+- id: wenzelHandoutMaxWeber2024
+  author:
+    - family: Wenzel
+      given: Catherina
+  citation-key: wenzelHandoutMaxWeber2024
+  issued:
+    - year: 2024
+      month: 7
+      day: 9
+  language: de
+  title: Handout - Max Weber
+  type: document
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/11_12_Handout_MaxWeber.docx
 ...
