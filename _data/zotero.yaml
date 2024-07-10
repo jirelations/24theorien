@@ -1438,6 +1438,21 @@ references:
   type: webpage
   URL: https://www.sms.cam.ac.uk/media/1092398
 
+- id: walcherHeinrichBoellAnekdote2016
+  citation-key: walcherHeinrichBoellAnekdote2016
+  contributor:
+    - family: Walcher
+      given: Bernhard
+  issued:
+    - year: 2016
+  language: ger
+  note: 'OCLC: 1340927995'
+  number-of-pages: '7'
+  source: Open WorldCat
+  title: 'Heinrich Böll: Anekdote zur Senkung der Arbeitsmoral'
+  title-short: Heinrich Böll
+  type: article-journal
+
 - id: warburgAbyWarburgBilderatlas2020
   author:
     - family: Warburg
@@ -1587,6 +1602,37 @@ references:
   publisher-place: Tübingen
   title: Die protestantische Ethik und der Geist des Kapitalismus
   type: book
+
+- id: weberProtestantischeEthikUnd2021
+  accessed:
+    - year: 2024
+      month: 7
+      day: 9
+  citation-key: weberProtestantischeEthikUnd2021
+  collection-title: Studienausgabe der Max-Weber-Gesamtausgabe / Max Weber
+  contributor:
+    - family: Weber
+      given: Max
+    - family: Schluchter
+      given: Wolfgang
+    - family: Bube
+      given: Ursula
+  event-place: Tübingen
+  ISBN: 978-3-16-155682-1
+  issued:
+    - year: 2021
+  language: ger
+  note: 'OCLC: 1252959788'
+  number-of-pages: '518'
+  publisher: J.C.B. Mohr (Paul Siebeck)
+  publisher-place: Tübingen
+  source: Open WorldCat
+  title: >-
+    Die protestantische Ethik und der Geist des Kapitalismus / Die
+    protestantischen Sekten und der Geist des Kapitalismus Schriften 1904-1920
+  type: book
+  URL: >-
+    http://deposit.d-nb.de/cgi-bin/dokserv?id=3b29521b2b654db6ade783becf795671&prov=M&dok_var=1&dok_ext=htm
 
 - id: wenzelHandoutMaxWeber2024
   author:
