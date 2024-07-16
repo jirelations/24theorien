@@ -49,6 +49,42 @@ references:
   URL: >-
     https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/21098758150/CourseNode/93668888136198/13-Bourdieu_Das+religio%CC%88se+Feld.pdf
 
+- id: bourdieuGeneseStructureChamp1971
+  abstract: >-
+    Pierre Bourdieu : Entstehung und Struktur des religiosen Gebietes. Die
+    Soziologie der Religion und — allgemein gesehen die Soziologie der
+    Ideologien — wird beherrscht vom Gegensatz einerseits zwischen der
+    Tradition, die die Religion als ein Kommunikations — und Wissensinstrument
+    ansieht — das heisst, als ein strukturiertes und strukturierendes System —
+    und anderseits der Tradition, die die politischen Funktionen der religiosen
+    Ideologie unter- streicht. In Wirklichkeit erfüllt die Religion nur insofern
+    eine politische Funktion der Verewigung der Strukturen — das heisst die
+    Absolutisierung des Relativen und die Legitimation des Willkurlichen und
+    dadurch die Zähmung der Beherrschten — als sie eine logische Funktion
+    erfüllt, indem sie dem Denken ihre Strukturen auferlegt.
+  accessed:
+    - year: 2024
+      month: 7
+      day: 16
+  author:
+    - family: Bourdieu
+      given: Pierre
+  citation-key: bourdieuGeneseStructureChamp1971
+  container-title: Revue française de sociologie
+  DOI: 10.2307/3320234
+  issue: '3'
+  issued:
+    - year: 1971
+  language: fre
+  license: free
+  page: 295-334
+  publisher: Editions OPHRYS
+  source: www.persee.fr
+  title: Genèse et structure du champ religieux
+  type: article-journal
+  URL: https://www.persee.fr/doc/rfsoc_0035-2969_1971_num_12_3_1994
+  volume: '12'
+
 - id: bourdieuReligioeseFeldTexte2000
   author:
     - family: Bourdieu
@@ -82,6 +118,65 @@ references:
   title: 'Aby Warburg, der Indianer : Berliner Erkundungen einer liberalen Ethnologie'
   title-short: Aby Warburg, der Indianer
   type: book
+
+- id: brzoskaPierreBourdieuDenker
+  abstract: >-
+    Italiener oder Imbiss. Puccini oder Punkrock. Die Herkunft prägt den
+    Geschmack ein Leben lang. Davon ist der Franzose Pierre Bourdieu überzeugt.
+    Wer ist der Mann, der die Soziologie als Kampfsport bezeichnet?
+  accessed:
+    - year: 2024
+      month: 7
+      day: 16
+  citation-key: brzoskaPierreBourdieuDenker
+  collection-title: radioWissen
+  director:
+    - family: Brzoska
+      given: Maike
+  language: de
+  title: Pierre Bourdieu - Denker der feinen Unterschiede
+  type: broadcast
+  URL: >-
+    https://www.br.de/mediathek/podcast/radiowissen/pierre-bourdieu-denker-der-feinen-unterschiede/1810844
+
+- id: dianteillPierreBourdieuSociology2003a
+  abstract: >-
+    Although some of Bourdieu’s most basic concepts have their roots in the
+    sociology of religion, religion itself has, in appearance, only a
+    marginalized status within his work. This article focuses on the genesis of
+    religious field and how the theories of Durkheim, Mauss, and Weber fold into
+    the notion of field defined by Bourdieu. Religious field must be understood
+    within the symbolic economy as well; divisions of symbolic labor are
+    therefore discussed in relation to segmented and non-segmented societies.
+    Finally, Bourdieu’s analysis of institutions, in particular the Catholic
+    Church, further help us understand the use and evolution of religious field
+    in his work and shed light on the sociologist’s understanding of the
+    movement from religious beliefs toward aesthetic ones.
+  accessed:
+    - year: 2024
+      month: 7
+      day: 16
+  author:
+    - family: Dianteill
+      given: Erwan
+  citation-key: dianteillPierreBourdieuSociology2003a
+  container-title: Theory and Society
+  container-title-short: Theory and Society
+  DOI: 10.1023/B:RYSO.0000004968.91465.99
+  ISSN: 1573-7853
+  issue: '5'
+  issued:
+    - year: 2003
+      month: 12
+      day: 1
+  language: en
+  page: 529-549
+  source: Springer Link
+  title: "Pierre Bourdieu and the sociology of religion: A\_central\_and peripheral concern"
+  title-short: Pierre Bourdieu and the sociology of religion
+  type: article-journal
+  URL: https://doi.org/10.1023/B:RYSO.0000004968.91465.99
+  volume: '32'
 
 - id: douglasAbominationsLeviticus2002
   accessed:
@@ -457,6 +552,28 @@ references:
     World and Ancient Judaism
   type: book
   URL: https://brill.com/view/title/21888
+
+- id: fursethReligionWorksHabermas
+  abstract: >-
+    This article discusses how the theoretical perspectives of Jürgen Habermas,
+    Pierre Bourdieu, and Michel Foucault may illuminate studies of religion.
+    Although these contemporary social and cultural theorists have not written
+    extensively on religion, it does appear as a theme in their work. Their
+    conceptual tools are also used more generally in studies of religion, which
+    call for attention to these theorists by sociologists of religion. The
+    discussion presents Habermas's, Bourdieu's, and Foucault's critiques of
+    religion, before looking at the possible implications that their theories
+    may have for understanding religion in present-day society. It suggests that
+    their ideas are important particularly for the insights they provide into
+    the links between religion and power.
+  author:
+    - family: Furseth
+      given: Inger
+  citation-key: fursethReligionWorksHabermas
+  language: en
+  source: Zotero
+  title: 5 Religion In the Works of Habermas, Bourdieu, and Foucault 
+  type: article-journal
 
 - id: geertzDeepPlayBemerkungen2003
   accessed:
@@ -1215,6 +1332,39 @@ references:
   title: 'Thinking about religion: a reader'
   title-short: Thinking about religion
   type: book
+
+- id: swartzBourdieuReligionImposing2010
+  abstract: >-
+    Until recently Pierre Bourdieu has been known in the United States as a
+    sociologist of culture, education, stratification, and social theory—not a
+    sociolog
+  accessed:
+    - year: 2024
+      month: 7
+      day: 16
+  author:
+    - family: Swartz
+      given: David L.
+  citation-key: swartzBourdieuReligionImposing2010
+  container-title: Sociology of Religion
+  container-title-short: Sociol Relig
+  DOI: 10.1093/socrel/srq013
+  ISSN: 1069-4404
+  issue: '1'
+  issued:
+    - year: 2010
+      month: 3
+      day: 1
+  language: en
+  page: 133-134
+  publisher: Oxford Academic
+  source: academic-oup-com.proxy.ub.uni-frankfurt.de
+  title: 'Bourdieu on Religion: Imposing Faith and Legitimacy'
+  title-short: Bourdieu on Religion
+  type: article-journal
+  URL: >-
+    https://academic-oup-com.proxy.ub.uni-frankfurt.de/socrel/article/71/1/133/1623933
+  volume: '71'
 
 - id: Tagsc
   citation-key: Tagsc
