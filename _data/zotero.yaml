@@ -85,6 +85,29 @@ references:
   URL: https://www.persee.fr/doc/rfsoc_0035-2969_1971_num_12_3_1994
   volume: '12'
 
+- id: bourdieuGenesisStructureReligious1991
+  author:
+    - family: Bourdieu
+      given: Pierre
+  citation-key: bourdieuGenesisStructureReligious1991
+  container-title: Comparative social research
+  ISSN: 0195-6310
+  issued:
+    - year: 1991
+  language: eng
+  page: 1-44
+  source: wrlc-gu.primo.exlibrisgroup.com
+  title: Genesis and Structure of the Religious Field
+  translator:
+    - family: Burnside
+      given: Jenny B.
+    - family: Calhoun
+      given: Craig
+    - family: Florence
+      given: Leah
+  type: article-journal
+  volume: '13'
+
 - id: bourdieuReligioeseFeldTexte2000
   author:
     - family: Bourdieu
@@ -758,6 +781,36 @@ references:
   type: broadcast
   URL: https://www.deutschlandfunk.de/der-einstein-der-religionsgeschichte-100.html
 
+- id: hessischerrundfunkPierreBourdieuFeinen2012
+  abstract: >-
+    Dokumentation des Hessischen Rundfunks vom 3.11.1983 über den französischen
+    Sozialphilosophen Pierre Bourdieu (+ 2002). 
+
+    Bourdieus Analyse des kulturellen Konsums und des Kunstgeschmacks der Ober-,
+    Mittel- und "Volksklasse" (classe populaire) ist trotz der Anforderungen,
+    die sie stellt, für alle von Interesse, die ihre eigenen, meist als
+    selbstverständlich aufgefassten kulturellen Vorlieben und Praktiken
+    überprüfen möchten. Der Reiz seiner Theorie liegt darin, dass er strikt
+    phänomenologisch vorgeht und immer im Kontakt zum konkreten Alltag bleibt.
+    Besonders charmant ist Bourdieus  Hommage an sein großes Vorbild Norbert
+    Elias und dessen "Prozess der Zivilisation".
+  accessed:
+    - year: 2024
+      month: 7
+      day: 16
+  citation-key: hessischerrundfunkPierreBourdieuFeinen2012
+  dimensions: '43:08'
+  director:
+    - literal: Hessischer Rundfunk
+  issued:
+    - year: 2012
+      month: 11
+      day: 1
+  source: YouTube
+  title: Pierre Bourdieu  - Die feinen Unterschiede
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=gQSYewA03BU
+
 - id: kippenbergEntdeckungReligionsgeschichteReligionswissenschaft1997
   author:
     - family: Kippenberg
@@ -1163,6 +1216,39 @@ references:
   type: chapter
   URL: >-
     https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-531-18924-6_7
+
+- id: reyBourdieuReligionImposing2014
+  abstract: >-
+    Pierre Bourdieu was one of the most influential social theorists of our
+    time. He developed a series of concepts to uncover the way society works and
+    to challenge assumptions about what society is. His ideas illuminate how
+    individuals and groups find value and meaning and so have rapidly come to be
+    seen as hugely productive in analysing how religion works in society.
+    'Bourdieu on Religion' introduces students to Bourdieu's key concepts:
+    cultural, social and symbolic capital; habitus and field; and his challenge
+    to the structures of social inequality. This study will be invaluable to any
+    student interested in the relationships between religion, class and social
+    power.
+  accessed:
+    - year: 2024
+      month: 7
+      day: 16
+  author:
+    - family: Rey
+      given: Terry
+  citation-key: reyBourdieuReligionImposing2014
+  event-place: London, UNITED KINGDOM
+  ISBN: 978-1-317-49088-3
+  issued:
+    - year: 2014
+  publisher: Taylor & Francis Group
+  publisher-place: London, UNITED KINGDOM
+  source: ProQuest Ebook Central
+  title: 'Bourdieu on Religion: Imposing Faith and Legitimacy'
+  title-short: Bourdieu on Religion
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1886942
 
 - id: riesebrodtFundamentalismusAlsPatriarchalische1990b
   accessed:
