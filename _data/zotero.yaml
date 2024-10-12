@@ -811,6 +811,36 @@ references:
   type: motion_picture
   URL: https://www.youtube.com/watch?v=gQSYewA03BU
 
+- id: karsteinPierreBourdieuReligioese2019a
+  accessed:
+    - year: 2024
+      month: 9
+      day: 10
+  author:
+    - family: Karstein
+      given: Uta
+  citation-key: karsteinPierreBourdieuReligioese2019a
+  container-title: Schlüsselwerke der Religionssoziologie
+  DOI: 10.1007/978-3-658-15250-5_54
+  editor:
+    - family: Gärtner
+      given: Christel
+    - family: Pickel
+      given: Gert
+  event-place: Wiesbaden
+  ISBN: 978-3-658-15249-9 978-3-658-15250-5
+  issued:
+    - year: 2019
+  language: de
+  page: 493-500
+  publisher: Springer Fachmedien Wiesbaden
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: 'Pierre Bourdieu: Das religiöse Feld. Zur Ökonomie des Heilsgeschehens (2000)'
+  title-short: Pierre Bourdieu
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-658-15250-5_54
+
 - id: kippenbergEntdeckungReligionsgeschichteReligionswissenschaft1997
   author:
     - family: Kippenberg
